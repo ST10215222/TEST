@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\bin\Debug\BasicTesting.exe.config
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\bin\Debug\BasicTesting.exe
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\bin\Debug\BasicTesting.pdb
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\obj\Debug\BasicTesting.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\obj\Debug\BasicTesting.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\obj\Debug\BasicTesting.exe
+C:\Users\lab_services_student\source\repos\BasicTesting\BasicTesting\obj\Debug\BasicTesting.pdb
